@@ -36,6 +36,6 @@ class Transfer
         @receiver.balance -= @amoun
         t
       end
-      
+
     end
 end
